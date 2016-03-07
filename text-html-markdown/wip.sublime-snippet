@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-> **WIP Alert** This is work in process. information is correct but more content will probably be added in the future.
+> **WIP Alert** This is a work in progress. Current information is correct but more content will probably be added in the future.
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>wip</tabTrigger>
