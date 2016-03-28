@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+> All examples are in `Sense` format, so that you can just copy and paste into Sense (Available as a [Chrome plugin](https://chrome.google.com/webstore/detail/sense-beta/lhjgkmllcaadmopgmanpapmpjgmfcfig?hl=en) or a [Kibana app](https://www.elastic.co/guide/en/sense/current/installing.html))		
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>sense</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html.markdown</scope>
+</snippet>
