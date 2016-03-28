@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+\033[32m${1:SUCCESS}\e[00m
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>green</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.shell,source.python,source.ruby</scope>
+</snippet>
