@@ -8,6 +8,8 @@
 		"Babel",
 		"Package Control",
 		"Pretty JSON",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
 		"TypeScript"
 	]
 }
