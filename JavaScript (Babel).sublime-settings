@@ -2,8 +2,7 @@
 	"extensions":
 	[
 		"js",
-		"jsx",
-		"js"
+		"jsx"
 	],
-	"tab_size": 6
+	"tab_size": 4
 }
