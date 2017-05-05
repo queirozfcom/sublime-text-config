@@ -1,0 +1,19 @@
+<snippet>
+	<content><![CDATA[
+import textwrap
+import sys
+
+if len(sys.argv) == 2 and sys.argv[1] == "--help":
+    help="""
+         ${1:description}
+         
+         Usage: ${2:usage}
+         """
+    print(textwrap.dedent(help))
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>cli</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.python</scope>
+</snippet>
