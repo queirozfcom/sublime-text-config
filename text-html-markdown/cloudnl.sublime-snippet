@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+> **Cloud Newsletter** This short is part of the **cloud newsletter**. Click [here](http://queirozf.com/newsletters/cloud) to sign up.
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>cloudnl</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html.markdown</scope>
+</snippet>
