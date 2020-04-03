@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[
+  <div class="img-div clearfix" markdown="1" style="display: flex;justify-content:space-between;">
+    <div class="img-div" markdown="1" style="float:left;">
+    ![${1:alt text}](${2:img url})
+    *${3:please add legend}*
+    </div>
+    &nbsp;&nbsp;
+    <div class="img-div" markdown="1" style="float:left;">
+    ![${4:alt text}](${5:img url})
+    *${6:please add legend}*
+    </div>
+  </div>]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>img2</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html.markdown</scope>
+</snippet>
