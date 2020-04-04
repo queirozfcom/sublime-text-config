@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
 redirect_from:
-  - /entries/${old-title-here}
+  - /entries/${1:old-title-here}
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
     <tabTrigger>redirect_from</tabTrigger>
