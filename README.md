@@ -10,4 +10,6 @@ $ git clone git@github.com:queirozfcom/sublime-text-config.git /tmp/sublime-stuf
 
 ## Sublime-text 4
 
+```
 $ git clone git@github.com:queirozfcom/sublime-text-config.git /tmp/sublime-stuff && mv /tmp/sublime-stuff  ~/.config/sublime-text/Packages/User
+```
