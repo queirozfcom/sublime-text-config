@@ -1,1 +1,9 @@
-footnote2.sublime-snippet
+<snippet>
+	<content><![CDATA[
+<sup>[2](#myfootnote1)</sup> ${1:<a name="myfootnote1">2</a>: footnote-content-here}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>footnote2</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html.markdown</scope>
+</snippet>
