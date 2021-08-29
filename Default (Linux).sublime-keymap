@@ -1,5 +1,7 @@
 [
 	{ "keys": ["ctrl+y"], "command": "run_macro_file", "args": {"file": "res://Packages/Default/Delete Line.sublime-macro"} },
 	{ "keys": ["ctrl+d"], "command": "duplicate_line" },
+	{ "keys": ["ctrl+b"], "command": "insert_snippet", "args": {"contents": "**${0:$SELECTION}**" } }, 
+	{ "keys": ["ctrl+i"], "command": "insert_snippet", "args": {"contents": "*${0:$SELECTION}*" } },
     { "keys": ["f5"], "command": "refresh_folder_list" }
 ]
