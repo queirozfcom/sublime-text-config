@@ -1,4 +1,4 @@
-# sublime-text-3-config
+# sublime-text-config
 
 # To install
 
