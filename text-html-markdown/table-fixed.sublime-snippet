@@ -1,0 +1,16 @@
+<snippet>
+    <content><![CDATA[
+<table style="margin-left: auto; margin-right: auto; max-width: ${1:70%};"><thead>
+<tr>
+<th style="width: 50%; text-align: center;">${2:Pros}</th>
+<th style="width: 50%; text-align: center;">${3:Cons}</th>
+</tr>
+</thead><tbody>
+<tr><td>${4:This is an advantage}</td><td>${5:This is a disadvantage}</td></tr>
+</tbody></table>        
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>table-fixed</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>text.html.markdown</scope>
+</snippet>
