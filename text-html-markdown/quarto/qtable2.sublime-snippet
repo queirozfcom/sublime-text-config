@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+| ${1:header-1} | ${2:header-2} |
+|------|------|
+|      |      |
+: ${3:legend} {#tbl-${4:}}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>qtable2</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html.markdown</scope>
+</snippet>

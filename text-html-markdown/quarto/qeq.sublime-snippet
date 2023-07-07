@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+:::{style="overflow-x:auto;overflow-y:hidden;"}
+\$\$
+${1:}
+\$\$ {#eq-${2:}}
+:::
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>qeq</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html.markdown</scope>
+</snippet>
+
