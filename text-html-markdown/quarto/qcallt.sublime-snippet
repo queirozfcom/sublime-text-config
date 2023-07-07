@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-::: {.callout-note title="${1:title}" collapse="${2:false}"}
+::: {.callout-note title="${1:title}" collapse="${2:true}"}
  $3
 :::
 ]]></content>
