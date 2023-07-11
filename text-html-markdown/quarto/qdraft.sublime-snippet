@@ -1,9 +1,9 @@
 <snippet>
 	<content><![CDATA[
-<span style="color: red;">TODO</span> ${1:}
+<span style="color: orange;">DRAFT</span> ${1:}
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>qtodo</tabTrigger>
+	<tabTrigger>qdraft</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<scope>text.html.markdown</scope>
 </snippet>
