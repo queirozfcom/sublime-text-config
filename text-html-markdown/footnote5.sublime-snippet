@@ -1,9 +1,9 @@
 <snippet>
 	<content><![CDATA[
-<sup>[2](#myfootnote2)</sup> ${1:<a name="myfootnote2">2</a>: footnote-content-here}
+<sup>[5](#myfootnote5)</sup> ${1:<a name="myfootnote5">5</a>: footnote-content-here}
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>footnote2</tabTrigger>
+	<tabTrigger>footnote5</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<scope>text.html.markdown</scope>
 </snippet>
